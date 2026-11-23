@@ -1,72 +1,72 @@
 [submodule "ask4help"]
 	path = ask4help
-	url = https://github.com/allenai/ask4help.git
+	url = https://github.com/Collab-Multimodal-Lifelong-Learning/ask4help.git
 [submodule "cmota"]
 	path = cmota
-	url = https://github.com/yonseivnl/cmota.git
+	url = https://github.com/Collab-Multimodal-Lifelong-Learning/cmota.git
 [submodule "sdp"]
 	path = sdp
-	url = https://github.com/yonseivnl/sdp.git
+	url = https://github.com/Collab-Multimodal-Lifelong-Learning/sdp.git
 [submodule "mcr-agent"]
 	path = mcr-agent
-	url = https://github.com/yonseivnl/mcr-agent.git
+	url = https://github.com/Collab-Multimodal-Lifelong-Learning/mcr-agent.git
 [submodule "HLE"]
 	path = HLE
-	url = https://github.com/Hyun1A/HLE.git
+	url = https://github.com/Collab-Multimodal-Lifelong-Learning/HLE.git
 [submodule "earl"]
 	path = earl
-	url = https://github.com/yonseivnl/earl.git
+	url = https://github.com/Collab-Multimodal-Lifelong-Learning/earl.git
 [submodule "cl-alfred"]
 	path = cl-alfred
-	url = https://github.com/snumprlab/cl-alfred.git
+	url = https://github.com/Collab-Multimodal-Lifelong-Learning/cl-alfred.git
 [submodule "vlm-rlaif"]
 	path = vlm-rlaif
-	url = https://github.com/yonseivnl/vlm-rlaif.git
+	url = https://github.com/Collab-Multimodal-Lifelong-Learning/vlm-rlaif.git
 [submodule "prometheus-vision"]
 	path = prometheus-vision
-	url = https://github.com/prometheus-eval/prometheus-vision.git
+	url = https://github.com/Collab-Multimodal-Lifelong-Learning/prometheus-vision.git
 [submodule "BGS"]
 	path = BGS
-	url = https://github.com/DQle38/BGS.git
+	url = https://github.com/Collab-Multimodal-Lifelong-Learning/BGS.git
 [submodule "LiRE"]
 	path = LiRE
-	url = https://github.com/chwoong/LiRE.git
+	url = https://github.com/Collab-Multimodal-Lifelong-Learning/LiRE.git
 [submodule "oasis"]
 	path = oasis
-	url = https://github.com/snumprlab/oasis.git
+	url = https://github.com/Collab-Multimodal-Lifelong-Learning/oasis.git
 [submodule "DoMIX"]
 	path = DoMIX
-	url = https://github.com/dohoonkim-ai/DoMIX.git
+	url = https://github.com/Collab-Multimodal-Lifelong-Learning/DoMIX.git
 [submodule "Reset-Distill"]
 	path = Reset-Distill
-	url = https://github.com/hongjoon0805/Reset-Distill.git
+	url = https://github.com/Collab-Multimodal-Lifelong-Learning/Reset-Distill.git
 [submodule "ota-v"]
 	path = ota-v
-	url = https://github.com/ota-v/ota-v.git
+	url = https://github.com/Collab-Multimodal-Lifelong-Learning/ota-v.git
 [submodule "agf"]
 	path = agf
-	url = https://github.com/hyowonwi/agf.git
+	url = https://github.com/Collab-Multimodal-Lifelong-Learning/agf.git
 [submodule "MASS"]
 	path = MASS
-	url = https://github.com/psmiz/MASS.git
+	url = https://github.com/Collab-Multimodal-Lifelong-Learning/MASS.git
 [submodule "binder"]
 	path = binder
-	url = https://github.com/snumprlab/binder.git
+	url = https://github.com/Collab-Multimodal-Lifelong-Learning/binder.git
 [submodule "vector"]
 	path = vector
-	url = https://github.com/snumprlab/vector.git
+	url = https://github.com/Collab-Multimodal-Lifelong-Learning/vector.git
 [submodule "dart"]
 	path = dart
-	url = https://github.com/snumprlab/dart.git
+	url = https://github.com/Collab-Multimodal-Lifelong-Learning/dart.git
 [submodule "scale"]
 	path = scale
-	url = https://github.com/snumprlab/scale.git
+	url = https://github.com/Collab-Multimodal-Lifelong-Learning/scale.git
 [submodule "axis-lora"]
 	path = axis-lora
-	url = https://github.com/dohoonkim-ai/axis-lora.git
+	url = https://github.com/Collab-Multimodal-Lifelong-Learning/axis-lora.git
 [submodule "action-sufficient"]
 	path = action-sufficient
-	url = https://github.com/action-sufficient/action-sufficient.git
+	url = https://github.com/Collab-Multimodal-Lifelong-Learning/action-sufficient.git
 [submodule "PRISP"]
 	path = PRISP
-	url = https://github.com/kingthebryan/PRISP.git
+	url = https://github.com/Collab-Multimodal-Lifelong-Learning/PRISP.git
