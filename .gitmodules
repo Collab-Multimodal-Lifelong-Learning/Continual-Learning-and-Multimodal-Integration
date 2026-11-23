@@ -1,0 +1,72 @@
+[submodule "ask4help"]
+	path = ask4help
+	url = https://github.com/allenai/ask4help.git
+[submodule "cmota"]
+	path = cmota
+	url = https://github.com/yonseivnl/cmota.git
+[submodule "sdp"]
+	path = sdp
+	url = https://github.com/yonseivnl/sdp.git
+[submodule "mcr-agent"]
+	path = mcr-agent
+	url = https://github.com/yonseivnl/mcr-agent.git
+[submodule "HLE"]
+	path = HLE
+	url = https://github.com/Hyun1A/HLE.git
+[submodule "earl"]
+	path = earl
+	url = https://github.com/yonseivnl/earl.git
+[submodule "cl-alfred"]
+	path = cl-alfred
+	url = https://github.com/snumprlab/cl-alfred.git
+[submodule "vlm-rlaif"]
+	path = vlm-rlaif
+	url = https://github.com/yonseivnl/vlm-rlaif.git
+[submodule "prometheus-vision"]
+	path = prometheus-vision
+	url = https://github.com/prometheus-eval/prometheus-vision.git
+[submodule "BGS"]
+	path = BGS
+	url = https://github.com/DQle38/BGS.git
+[submodule "LiRE"]
+	path = LiRE
+	url = https://github.com/chwoong/LiRE.git
+[submodule "oasis"]
+	path = oasis
+	url = https://github.com/snumprlab/oasis.git
+[submodule "DoMIX"]
+	path = DoMIX
+	url = https://github.com/dohoonkim-ai/DoMIX.git
+[submodule "Reset-Distill"]
+	path = Reset-Distill
+	url = https://github.com/hongjoon0805/Reset-Distill.git
+[submodule "ota-v"]
+	path = ota-v
+	url = https://github.com/ota-v/ota-v.git
+[submodule "agf"]
+	path = agf
+	url = https://github.com/hyowonwi/agf.git
+[submodule "MASS"]
+	path = MASS
+	url = https://github.com/psmiz/MASS.git
+[submodule "binder"]
+	path = binder
+	url = https://github.com/snumprlab/binder.git
+[submodule "vector"]
+	path = vector
+	url = https://github.com/snumprlab/vector.git
+[submodule "dart"]
+	path = dart
+	url = https://github.com/snumprlab/dart.git
+[submodule "scale"]
+	path = scale
+	url = https://github.com/snumprlab/scale.git
+[submodule "axis-lora"]
+	path = axis-lora
+	url = https://github.com/dohoonkim-ai/axis-lora.git
+[submodule "action-sufficient"]
+	path = action-sufficient
+	url = https://github.com/action-sufficient/action-sufficient.git
+[submodule "PRISP"]
+	path = PRISP
+	url = https://github.com/kingthebryan/PRISP.git
